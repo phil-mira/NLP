@@ -1,0 +1,27 @@
+name: NLP
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - nltk
+  - spacy
+  - transformers
+  - pytorch
+  - jupyter
+  - notebook
+  - pip
+  - pip:
+    - gensim
+    - wordcloud
+    - tensorflow
+    - keras
+    - huggingface_hub
+    - datasets

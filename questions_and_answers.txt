@@ -1,0 +1,421 @@
+Question Number: 1
+Grade Level: 2
+Question: I'm in 2nd grade. What are the seasons of the year?
+Answer: There are 4 seasons: spring, summer, fall and winter. They happen because the Earth moves around the sun.
+Score:
+
+Question Number: 2
+Grade Level: 2
+Question: I'm in 2nd grade. How do plants make their own food?
+Answer: Plants make food by photosynthesis which means they use sunlight and water to make sugar which is the food they use for energy.
+Score:
+
+Question Number: 3
+Grade Level: 3
+Question: I'm in 3rd grade. What's the difference between a noun and a verb?
+Answer: Nouns are naming words like dog or school. Verbs are doing words like run or jump. You need both to make sentences.
+Score:
+
+Question Number: 4
+Grade Level: 1
+Question: I'm in 1st grade. How do you add numbers?
+Answer: To add numbers, you just count them all together. So 3 + 4 means you have 3 things and 4 more things, which makes 7 things altogether.
+Score:
+
+Question Number: 5
+Grade Level: 3
+Question: I'm in 3rd grade. What is the difference between weather and climate?
+Answer: Weather is what's happening outside right now, like if it's raining or sunny. Climate is the usual weather pattern in a place over many years. So weather changes day to day, but climate is about the bigger picture over a long time.
+Score:
+
+Question Number: 6
+Grade Level: 2
+Question: I'm in 2nd grade. How does the water cycle work?
+Answer: The water cycle is how water moves around Earth. The sun heats up water and which becomes steam. Then it rises up to forms clouds, falls as rain, and flows back to oceans and lakes. Then it starts over again.
+Score:
+
+Question Number: 7
+Grade Level: 0
+Question: I'm in kindergarten. Why is the sky blue?
+Answer: The sky is blue because the air in the sky mixes with the light coming from the sun turning it blue instead of white.
+Score:
+
+Question Number: 8
+Grade Level: 1
+Question: I'm in 1st grade. How do clouds form?
+Answer: Clouds come from water in lakes and oceans rising into the air when heated by the sun. The water then cools down really quickly when it gets high up where it is colder and combines with dust in the air to create a cloud.
+Score:
+
+Question Number: 9
+Grade Level: 1
+Question: I'm in 1st grade. How do plants grow?
+Answer: Plants grow from seeds! First, a seed needs water and soil. The seed sprouts a root going down and a stem going up. Then the plant gets leaves that catch sunlight. The plant uses sunlight and water to make food, which helps it grow bigger and taller.
+Score:
+
+Question Number: 10
+Grade Level: 0
+Question: I'm in kindergarten. What is a raibow rainbow?
+Answer: A rainbow appears in the sky and has many colours in it. They are red, orange, yellow, green, blue, indigo, and violet.
+Score:
+
+Question Number: 11
+Grade Level: 1
+Question: I'm in 1st grade. How does the digestive system work?
+Answer: The digestive system breaks down food into tiny pieces so your body can use it. Food goes from your mouth to your stomach, then to your intestines, and what's left comes out as poop.
+Score:
+
+Question Number: 12
+Grade Level: 3
+Question: I'm in 3rd grade. What is photosynthesis?
+Answer: Photosynthesis is how plants make their own food using sunlight. They take in carbon dioxide from the air and water from the soil. Then, the green part of plants (called chlorophyll) uses sunlight to turn these ingredients into food (sugar) for the plant and oxygen. The oxygen is released into the air for us to breathe, which is great because we need it to live!
+Score:
+
+Question Number: 13
+Grade Level: 2
+Question: I'm in 2nd grade. What is multiplication?
+Answer: Multiplication is a faster way to add the same number many times. For example, 3 × 4 means 3 + 3 + 3 + 3 = 12, which is 4 groups of 3 things. That could be 4 groups of 3 apples or any item you want.
+Score:
+
+Question Number: 14
+Grade Level: 0
+Question: I'm in kindergarten. How do I count to 10?
+Answer: To count to 10, you say the numbers in order: 1 = one, 2 = two, 3 = three, 4 = four, 5 = five, 6 = six, 7 = seven, 8 = eight, 9 = nine, 10 = ten. You can practice by counting your fingers!
+Score:
+
+Question Number: 15
+Grade Level: 3
+Question: I'm in 3rd grade. What are fractions?
+Answer: Fractions are numbers that show parts of a whole. They have a top number and a bottom number. The bottom number tells how many equal parts the whole is divided into. The top number tells how many parts we're talking about. For example, 1/2 means one out of two equal parts, or half of something.
+Score:
+
+Question Number: 16
+Grade Level: 1
+Question: I'm in 1st grade. What are shapes?
+Answer: Shapes are what things look like. There are circles like the sun, squares like some blocks, triangles that have 3 sides, and rectangles like a door. You can find shapes everywhere!
+Score:
+
+Question Number: 17
+Grade Level: 1
+Question: I'm in 1st grade. Why do we need to sleep?
+Answer: We sleep because our bodies need rest. Sleep helps us grow, gives us energy, and helps our brains remember things.
+Score:
+
+Question Number: 18
+Grade Level: 1
+Question: I'm in 1st grade. How do airplanes fly?
+Answer: Airplanes fly because of their wings. The wings are shaped to push air down, which lifts the plane up. Engines give the plane power to move forward.
+Score:
+
+Question Number: 19
+Grade Level: 0
+Question: I'm in kindergarten grade. What causes earthquakes?
+Answer: Earthquakes happen when Earth's large pieces of earth move and press against each other. When they suddenly slip, energy is released, causing the ground to shake.
+Score:
+
+Question Number: 20
+Grade Level: 2
+Question: I'm in 2nd grade. What causes earthquakes?
+Answer: Earthquakes happen when Earth's large pieces of earth move and press against each other. When they suddenly slip, energy is released, causing the ground to shake.
+Score:
+
+Question Number: 21
+Grade Level: 1
+Question: I'm in 1st grade. How do computers work?
+Answer: Computers use electricity with wires and other things inside them that can do simple things like maths and when they all work together they can do more complicated things
+Score:
+
+Question Number: 22
+Grade Level: 2
+Question: I'm in 2nd grade. How does electricity work?
+Answer: Electricity is caused by a bunch of tiny things called electrons. We can control how these electrons move and make them do special things like heat up metal.
+Score:
+
+Question Number: 23
+Grade Level: 3
+Question: I'm in 3rd grade. Why do leaves change color in autumn?
+Answer: Leaves change color in the fall as the chlorophyll in the leaves, which is green, used to make food is no longer needed as the tree goes to sleep in the winter and so disappears revealing other colours in the leaves.
+Score:
+
+Question Number: 24
+Grade Level: 0
+Question: I'm in kindergarten. How do plants drink water?
+Answer: Plants drink water with their roots! The roots are like tiny strawsin the ground that suck up water.
+Score:
+
+Question Number: 25
+Grade Level: 1
+Question: I'm in 1st grade. Why is the ocean salty?
+Answer: The ocean is salty because rocks on land have tiny bits of salt in them. When it rains, the rain washes the salt from the rocks into rivers. The rivers take the salt to the ocean. Over many, many years, the salt has built up in the ocean, making it salty!
+Score:
+
+Question Number: 26
+Grade Level: 2
+Question: I'm in 2nd grade. How does gravity work?
+Answer: Everything that has weight has gravity. Big things like planets and the sun have a lot of gravity, which is why when you jump up, you come back down to Earth instead of floating away. It's like everything with weight has invisible hands that reach out and pull other things with weight toward it!
+Score:
+
+Question Number: 27
+Grade Level: 3
+Question: I'm in 3rd grade. How do vaccines work?
+Answer: Vaccines help your body fight diseases by teaching your immune system what germs look like before you get sick. They contain weakened or dead germs that can't hurt you but let your body practice making antibodies. Antibodies are like tiny warriors that fight specific germs. When you get a vaccine, your body learns to make these warriors so if the real germ ever shows up, your body already knows how to fight it fast! That's why vaccines can keep you from getting very sick.
+Score:
+
+Question Number: 28
+Grade Level: 1
+Question: I'm in 1st grade. What is the solar system?
+Answer: The solar system is our Sun and all the planets that move around it. Earth is one of these planets and they look like balls that float around the sun in space.
+Score:
+
+Question Number: 29
+Grade Level: 2
+Question: I'm in 2nd grade. What are dinosaurs?
+Answer: Dinosaurs were giant animals that lived a very long time ago. They aren't around anymore - they all died out. Some were as big as houses, while others were small like chickens. Some ate plants, and others ate meat. We learn about them from their fossils, which are their bones that turned into stone.
+Score:
+
+Question Number: 30
+Grade Level: 3
+Question: I'm in 3rd grade. How does sound travel?
+Answer: Sound travels by making tiny movements in the air. When something makes a sound, like a drum, it shakes the air around it. Those shakes move through the air like ripples in water until they reach your ears, and then you hear the sound! Sound can also travel through water and solid things like walls, but it can't travel through empty space where there's no air.
+Score:
+
+Question Number: 31
+Grade Level: 1
+Question: I'm in 1st grade. How does sound travel?
+Answer: Sounds travels through the same way a wave travels through water but by using air instead of water. It shakes the air making sound waves that we can't see but can hear!
+Score:
+
+Question Number: 32
+Grade Level: 2
+Question: I'm in 2nd grade. Why does ice float?
+Answer: Ice floats because it's lighter than water for its size.
+Score:
+
+Question Number: 33
+Grade Level: 1
+Question: I'm in 1st grade. Why does ice float?
+Answer: Ice floats because it's lighter than water.
+Score:
+
+Question Number: 34
+Grade Level: 3
+Question: I'm in 3rd grade. What are magnets?
+Answer: Magnets are special objects that can pull certain metals toward them or push other magnets away. They have two ends called poles - a north pole and a south pole. When you put the north pole of one magnet near the south pole of another magnet, they stick together. But if you try to put two north poles or two south poles together, they push away from each other!
+Score:
+
+Question Number: 35
+Grade Level: 2
+Question: I'm in 2nd grade. How do weathermen know what the weather will be?
+Answer: Weathermen know the weather by looking at the sky, checking special tools that measure wind and rain, and using computers to help them make their best guess about what will happen tomorrow.
+Score:
+
+Question Number: 36
+Grade Level: 1
+Question: I'm in 1st grade. What is the moon?
+Answer: The moon is a big round rock that circles around our Earth in space. It's what we see glowing at night! The moon doesn't make its own light - it reflects light from the sun like a mirror.
+Score:
+
+Question Number: 37
+Grade Level: 2
+Question: I'm in 2nd grade. How do volcanoes work?
+Answer: Inside Earth, it's very, very hot - hot enough to melt rocks! This melted rock rises up. When it finds cracks in Earth's surface, the magma pushes up and sometimes bursts out through the top of the volcano.
+Score:
+
+Question Number: 38
+Grade Level: 2
+Question: I'm in 2nd grade. Who was Abraham Lincoln?
+Answer: Abraham Lincoln was a very important president of the United States a long time ago. He was known for being very tall and wearing a tall black hat!
+Score:
+
+Question Number: 39
+Grade Level: 1
+Question: I'm in 1st grade. What are castles?
+Answer: Castles are big buildings where kings, queens, princes, and princesses lived a long time ago. They have tall walls and towers to keep people safe.
+Score:
+
+Question Number: 40
+Grade Level: 2
+Question: I'm in 2nd grade. What are plants?
+Answer: Plants are living things that grow in the ground or in water. They make their own food using sunlight, water, and air in a process called photosynthesis. Some examples of plants are trees, flowers, grass, and vegetables.
+Score:
+
+Question Number: 41
+Grade Level: 3
+Question: I'm in 3rd grade. How do animals breathe?
+Answer: Animals breathe differently depending on where they live and what kind of animal they are. Land animals use lungs, fish use gills, insects use tubes called tracheae, and some animals can breathe through their skin.
+Score:
+
+Question Number: 42
+Grade Level: 1
+Question: I'm in 1st grade. What is a cell?
+Answer: A cell is a tiny building block that makes up all living things!
+Score:
+
+Question Number: 43
+Grade Level: 3
+Question: I'm in 3rd grade. What are the parts of the human digestive system?
+Answer: The human digestive system consists of the gastrointestinal tract and accessory organs. It includes the mouth, pharynx, esophagus, stomach, small intestine (duodenum, jejunum, ileum), large intestine (cecum, colon, rectum), and anus. Accessory organs include the salivary glands, liver, gallbladder, and pancreas. This system mechanically and chemically breaks down food into nutrients that can be absorbed into the bloodstream and distributed throughout the body, while eliminating waste products.
+Score:
+
+Question Number: 44
+Grade Level: 1
+Question: I'm in 1st grade. What are continents?
+Answer: Continents are the biggest pieces of land on Earth. There are seven continents: North America, South America, Europe, Asia, Africa, Australia, and Antarctica.
+Score:
+
+Question Number: 45
+Grade Level: 3
+Question: I'm in 3rd grade. What are mountains?
+Answer: Mountains are very tall areas of land that rise up much higher than the land around them. They are usually much taller than hills! Mountains can be rocky with pointy peaks, or they can be more rounded.
+Score:
+
+Question Number: 46
+Grade Level: 2
+Question: I'm in 2nd grade. What are oceans?
+Answer: Oceans are huge areas of salty water that cover most of planet Earth. They're so big that they're like giant pools that you could never see across! There are five main oceans: the Pacific Ocean (the biggest one), the Atlantic Ocean, the Indian Ocean, the Southern Ocean, and the Arctic Ocean (which is way up north and very cold).
+
+Oceans are home to thousands of different animals like fish, whales, sharks, dolphins, octopuses, and many more creatures. Some of these animals are really tiny, and others are bigger than a school bus!
+Score:
+
+Question Number: 47
+Grade Level: 1
+Question: I'm in 1st grade. What is the capital of France?
+Answer: The capital of France is Paris. Paris is a big city where lots of people live.
+Score:
+
+Question Number: 48
+Grade Level: 3
+Question: I'm in 3rd grade. What is the capital of France?
+Answer: The capital of France is Paris. Paris is a big city where lots of people live. It has a famous tall tower called the Eiffel Tower that looks like a big triangle reaching into the sky!
+Score:
+
+Question Number: 49
+Grade Level: 2
+Question: I'm in 2nd grade. What is water?
+Answer: Water is what we drink and what fills oceans, lakes, and rivers!
+Score:
+
+Question Number: 50
+Grade Level: 1
+Question: I'm in 1st grade. Who painted the Mona Lisa?
+Answer: The Mona Lisa was painted by Leonardo da Vinci.
+Score:
+
+Question Number: 51
+Grade Level: 3
+Question: I'm in 3rd grade. Who painted the Mona Lisa?
+Answer: The Mona Lisa was painted by Leonardo da Vinci. He was a very famous artist who lived a long, long time ago. The Mona Lisa is a painting of a lady with a small smile. People from all over the world travel to see this special painting.
+Score:
+
+Question Number: 52
+Grade Level: 1
+Question: I'm in 1st grade.  What's the largest planet in our solar system?
+Answer: Jupiter is the biggest planet in our solar system!
+Score:
+
+Question Number: 53
+Grade Level: 2
+Question: I'm in 2nd grade.  What's the largest planet in our solar system?
+Answer: Jupiter is the biggest planet in our solar system! Jupiter is a giant ball of gas with pretty stripes and a famous red spot, which is actually a huge storm.
+Score:
+
+Question Number: 54
+Grade Level: 1
+Question: I'm in 1st grade. How many bones are in the human body?
+Answer: Your body has 206 bones!
+Score:
+
+Question Number: 55
+Grade Level: 3
+Question: I'm in 3rd grade. How many bones are in the human body?
+Answer: The human body has 206 bones when you're grown up. When babies are born, they actually have about 300 bones, but some of these bones grow together as they get older.
+Score:
+
+Question Number: 56
+Grade Level: 1
+Question: I'm in 1st grade. How do batteries work?
+Answer: Inside a battery are special materials that create electricity.
+Score:
+
+Question Number: 57
+Grade Level: 3
+Question: I'm in 3rd grade. How do batteries work?
+Answer: Inside a battery are special materials that create electricity.
+Score:
+
+Question Number: 58
+Grade Level: 1
+Question: I'm in 1st grade. Why do we have different jobs?
+Answer: People do different jobs because we all help each other in different ways! Some people grow food, some people build houses, some people teach children like you.
+Score:
+
+Question Number: 59
+Grade Level: 3
+Question: I'm in 3rd grade. Why do we have different jobs?
+Answer: People do different jobs because we all help each other in different ways! Some people grow food, some people build houses, some people teach children like you. Everyone is good at different things, and when we all do what we're good at, we can make our community better. It's like how in class, some friends are good at drawing and others are good at counting. When everyone shares their special talents, we all get to enjoy more things!
+Score:
+
+Question Number: 60
+Grade Level: 2
+Question: I'm in 2nd grade. How do refridgerators keep cold?
+Answer: Inside the refrigerator, there's a special liquid that takes away the heat from your food. It's like when you feel hot and someone gives you a cold drink - it makes you feel cooler! The refrigerator has a motor that helps the special liquid move around and take away the heat. That's why when you open the door, you feel cold air come out. The cold helps keep your food fresh longer so you can enjoy it later!
+Score:
+
+Question Number: 61
+Grade Level: 3
+Question: I'm in 3rd grade. How do refridgerators keep cold?
+Answer: Refrigerators work by moving heat away from the food inside them. There's a special liquid called refrigerant that travels through pipes inside the refrigerator. This liquid gets very cold and then absorbs heat from the food and air inside the fridge. 
+ Think about when you touch something cold - your warm hand makes the cold thing warmer, and your hand feels cooler. That's what happens inside your refrigerator! The refrigerant takes the heat away from your food, making everything inside the fridge stay cold.
+ The refrigerator has a motor and compressor that help the refrigerant move through the pipes. When you hear your refrigerator making a humming sound, that's the motor working to keep your food cold!
+Score:
+
+Question Number: 62
+Grade Level: 1
+Question: I'm in 1st grade. Why do we have weekends?
+Answer: Weekends are special days when we don't have to go to school! Saturday and Sunday are our weekend days.
+Score:
+
+Question Number: 63
+Grade Level: 2
+Question: I'm in 2nd grade. Why do we have weekends?
+Answer: Weekends are special days when we don't have to go to school! Saturday and Sunday are our weekend days. People who work at jobs usually get to stay home on weekends too. Weekends give everyone time to rest and play. We can spend time with our families, play with our toys, visit friends, or go to fun places! Then, when Monday comes, we're ready to learn and work again. Weekends are like a special break that helps us be happy and healthy!
+Score:
+
+Question Number: 64
+Grade Level: 1
+Question: I'm in 1st grade. How Do We Taste Different Flavors?
+Answer: Your tongue has tiny bumps called taste bumps which can taste different flavours.
+Score:
+
+Question Number: 65
+Grade Level: 2
+Question: I'm in 2nd grade. How Do We Taste Different Flavors?
+Answer: Your tongue has tiny taste bumps called taste buds. These taste buds are like little food detectives that can find different flavors.
+Score:
+
+Question Number: 66
+Grade Level: 1
+Question: I'm in 1st grade. Why do people have different hair colors?
+Answer: Everyone has different amounts of colour because of something inside the hair called melanin.
+Score:
+
+Question Number: 67
+Grade Level: 3
+Question: I'm in 3rd grade. Why do people have different hair colors?
+Answer: We have different hair colors because of tiny things in our bodies called genes. These genes are like special instructions that we get from our parents.
+Inside each hair, there's a special coloring called melanin. If your hair has lots of melanin, it looks dark brown or black. If it has less melanin, it might be blonde. Red hair comes from a special type of melanin called pheomelanin.
+Your hair color depends on which genes you got from your mom and dad. That's why sometimes children have hair that looks like one parent, or sometimes it's a mix of both! As we get older, some people's hair might change color or turn gray when their bodies stop making as much melanin.
+All hair colors are special and show how wonderfully different we all are!
+Score:
+
+Question Number: 68
+Grade Level: 1
+Question: I'm in 1st grade. Why Do We Celebrate Holidays?
+Answer: We celebrate holidays to remember important things and to spend time with people we love.
+Score:
+
+Question Number: 69
+Grade Level: 2
+Question: I'm in 2nd grade. Why Do We Celebrate Holidays?
+Answer: We celebrate holidays to remember important things and to spend time with people we love. On holidays, we might have parties, eat special foods, give presents, or do special activities. Some holidays help us remember important people or things that happened long ago. Other holidays are for celebrating the seasons changing. Holidays give us a chance to be happy together and make special memories with our families and friends!
+Score:
+
